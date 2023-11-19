@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* Styling for Detail Info Section */
+#detail-info {
+    padding: 50px 0;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+
+.info {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+/* Styling for Header and Footer (if needed) */
+header {
+    /* Styles for header */
+}
+
+footer {
+    /* Styles for footer */
+}
