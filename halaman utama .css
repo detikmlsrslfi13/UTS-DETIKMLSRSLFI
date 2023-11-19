@@ -1,0 +1,29 @@
+/* styles.css */
+
+/* Styling for About Section */
+#about {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+}
+
+/* Styling for Services Section */
+#services {
+    padding: 100px 0;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+/* Styling for Contact Section */
+#contact {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+}
+
+/* Styling for Footer */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
